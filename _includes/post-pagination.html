@@ -1,0 +1,17 @@
+<nav class="nav  nav--paginator">
+
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="pagination  pagination--previous">&larr; Forrige</a>
+  {% else %}
+    <span class="pagination  pagination--previous">&larr; Forrige</span>
+  {% endif %}
+
+  <span class="pagination  pagination--counter">Side: {{ paginator.page }} av {{ paginator.total_pages }}</span>
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="pagination  pagination--next">Neste &rarr;</a>
+  {% else %}
+    <span class="pagination  pagination--next">Neste &rarr;</span>
+  {% endif %}
+
+</nav>
