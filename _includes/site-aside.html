@@ -1,0 +1,25 @@
+<aside class="aside  typeset{% if include.align == "left" %}  aside--left{% endif %}">
+
+  {% if page.layout == "post" %}
+    <section class="section  section--related-posts">
+      {% include post-related.html %}
+    </section>
+
+  {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
+    <section class="section  section--description">
+      <h3>Om museet</h3>
+      <p>{{ site.description }} <a href="/om/">Les mer...</a></p>
+      {% include nav-partners.html %}
+      {% include nav-social.html %}
+      {% include post-list-short.html %}      
+    </section>
+
+  {% elsif page.layout == "categories" %}
+    <section class="section  section--category-index">
+      <h3>Index</h3>
+      {% include nav-categories.html %}
+    </section>
+
+  {% endif %}
+
+</aside>
