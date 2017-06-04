@@ -2,7 +2,7 @@
 title: Kontakt
 feature_text: |
   # Kontakt oss
-feature_image: "https://unsplash.it/800/200/?random"
+feature_image: "https://unsplash.it/800/200/"
 excerpt: "Velkommen til stedet til støtte for opprettelsen av Oslo Barnemuseum!"
 ---
 
