@@ -28,4 +28,4 @@ CityKids er produsert av Stiftelsen Oslo Barnemuseum i samarbeid med SentralenUN
 CityKids finner du i den flotte Marmorsalen i 1. etasje på Sentralen. Det finnes barnevognparkering utenfor Marmorsalen. Det er dessverre ikke mulig å ta med barnevogner inn i Marmorsalen pga. brannsikring.
 
 
-{% include button.html text="Alle events" icon="facebook" color="#3B5998" link="https://www.facebook.com/pg/oslobarnemuseum/events/" %} {% include button.html text="Følg oss" icon="twitter" color="#1DA1F2" link="https://twitter.com/OsloBarnemuseum" %} {% include button.html text="Kontakt" icon="email" color="#FFDC00 " link="/kontakt/" %}
+{% include button.html text="Alle aktiviteter" icon="facebook" color="#3B5998" link="https://www.facebook.com/pg/oslobarnemuseum/events/" %} {% include button.html text="Følg oss" icon="twitter" color="#1DA1F2" link="https://twitter.com/OsloBarnemuseum" %} {% include button.html text="Kontakt" icon="email" color="#FFDC00 " link="oslobarnemuseum/kontakt" %}
