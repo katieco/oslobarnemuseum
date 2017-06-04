@@ -43,9 +43,9 @@ social: # jekyll-seo-tag > social overrides
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/oslobarnemuseum
     - https://www.facebook.com/oslobarnemuseum
-    - https://www.linkedin.com/in/daviddarnes
-    - https://plus.google.com/+DavidDarnes
-    - https://github.com/daviddarnes
+    - https://www.linkedin.com/in/oslobarnemuseum
+    - https://plus.google.com/+oslobarnemuseum
+    - https://https://github.com/katieco/oslobarnemuseum
 
 # 4. Jekyll settings
 sass:
