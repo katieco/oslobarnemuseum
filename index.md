@@ -3,7 +3,7 @@ title: Aktiviteter
 feature_text: |
   # Oslo Barnemusem
   *Velkommen til stedet til støtte for opprettelsen av Oslo Barnemuseum*
-feature_image: "https://unsplash.it/800/200/?random"
+feature_image: "https://unsplash.it/800/200/"
 excerpt: "Velkommen til stedet til støtte for opprettelsen av Oslo Barnemuseum!"
 aside: true
 ---

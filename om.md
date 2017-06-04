@@ -2,7 +2,7 @@
 title: Mål
 feature_text: |
   # Oslo Barnemuseum
-feature_image: "https://unsplash.it/800/200/?random"
+feature_image: "https://unsplash.it/800/200/"
 excerpt: "A demo of Markdown and HTML includes"
 ---
 

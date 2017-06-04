@@ -62,7 +62,7 @@ collections:
     description: "Opplevelser, glimtskudd og leking." # The post list page content
     feature_text: |
       ## Barnemuseets blog
-    feature_image: "https://unsplash.it/800/200/?random"
+    feature_image: "https://unsplash.it/800/200/"
 
 # 6. Jekyll collections settings
 defaults:
