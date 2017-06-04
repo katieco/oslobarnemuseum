@@ -86,7 +86,7 @@ encoding: utf-8 # Make sure the encoding is right
 title: "Oslo Barnemuseum" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/obm_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Er det ikke på tide at vi kan få et barnemuseum i Oslo til nytte og glede for barn, familier, lærere, turister og andre?" # Site description and default description, also used in jekyll-seo-tag
-url: "https://katieco.github.io/oslobarnemuseum" # Site url, also used in jekyll-seo-tag
+url: "https://katieco.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: "/oslobarnemuseum"
 repo: "https://github.com/katieco/oslobarnemuseum"
 email: "info@oslobarnemuseum.org"
