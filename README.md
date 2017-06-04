@@ -3,8 +3,9 @@
 This is a space for developing the new web site of Oslo Children's Museum with open sources and Jekyll as site generator.
 The site should initally be in Norwegian, to then become multilingual.
 
-Alpha site from this repository: https://katieco.github.io/oslobarnemuseum/
-Current site: www.oslobarnemuseum.org
+Alpha (new) site, based on this repository: https://katieco.github.io/oslobarnemuseum/
+
+Current (old) site: www.oslobarnemuseum.org
 
 
 Requirements:
