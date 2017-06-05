@@ -77,4 +77,4 @@ og vil gjerne ha dine innspill på hvordan vi best kan gå fra idé til realiser
 
 I 2015 fikk vi i samarbeid med [Space Group](http://spacegroup.no/)  laget Oppdrag Oppdag!, en konseptutvikling for et interaktivt opplevelsessenter for barn på Tøyen.
 
-{% include button.html text="Les utredningen" icon="link" color="#85144b" link="http://oslobarnemuseum.org/pdf/UngeOppdagere_Konseptrapport_v1_webres.pdf" %}
+{% include button.html text="Les utredningen" icon="link" color="#9b59b6" link="http://oslobarnemuseum.org/pdf/UngeOppdagere_Konseptrapport_v1_webres.pdf" %}

@@ -8,10 +8,9 @@
   {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
     <section class="section  section--description">
       <h3>Om museet</h3>
-      <p>{{ site.description }} <a href="/om/">Les mer...</a></p>
+      <p>{{ site.description }} <a href="oslobarnemuseum/om/">Om oss</a></p>
       {% include nav-partners.html %}
       {% include nav-social.html %}
-      {% include post-list-short.html %}      
     </section>
 
   {% elsif page.layout == "categories" %}
