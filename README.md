@@ -42,7 +42,7 @@ Contributions are very welcome. Same as with adding blog posts: Feel free to bra
 
 This is an open source project, standing on the shoulders of giants.
 
-- Thanks to [David Darnes](https://github.com/daviddarnes/alembic) for the Alembic boilerplate.
+- Thanks to the [Alembic boilerplate](https://github.com/daviddarnes/alembic), for providing the Jekyll base.
 - Thanks to [Simple Icons](https://simpleicons.org/) for providing the brand icons, by [Dan Leech](https://twitter.com/bathtype)
 - Thanks to [Sassline](https://sassline.com/) for the typographic basis, by [Jake Giltsoff](https://twitter.com/jakegiltsoff)
 - Thanks to [Flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) by [Brian Franco](https://twitter.com/brianfranco)
