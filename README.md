@@ -20,7 +20,9 @@ Partner logos above the fold. Give space to archive a bunch of accumulated infor
 Create a branch, add or edit Markdown files (.md) in the folder [`_posts`]. Commit and file a pull request to get the branch merged with master.
 
 ## Images
+
 ![Platypus](https://lassegs.github.io/obmimg/nebbdyr.jpg)
+
 Images are hosted in a separate repository to keep this one clean. Check out https://github.com/lassegs/obmimg
 
 ## Build and serve site locally
