@@ -1,9 +1,9 @@
 ---
 title: Aktiviteter
 feature_text: |
-  # Oslo Barnemusem
+  # Oslo Barnemuseum
   *Velkommen til stedet til støtte for opprettelsen av Oslo Barnemuseum*
-feature_image: "https://unsplash.it/800/200/"
+feature_image: "https://github.com/lassegs/obmimg/raw/master/verdenskart%20Forstander.jpg"
 excerpt: "Velkommen til stedet til støtte for opprettelsen av Oslo Barnemuseum!"
 aside: true
 ---
