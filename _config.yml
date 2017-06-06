@@ -96,7 +96,7 @@ avatarurl: "/assets/favicon.png" # Uses avatars for favicons to get multple site
 # 8. Site navigation
 navigation_header:
   Hjem: /
-  Museet: /om/
+  Om oss: /om/
   Blog: /blog/
   Kategorier: /kategorier/
   Søk: /sok/
