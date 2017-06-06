@@ -1,8 +1,6 @@
 ---
-title: Aktiviteter
+title: Oslo Barnemuseum
 feature_text: |
-  # Oslo Barnemuseum
-  *Velkommen til stedet til støtte for opprettelsen av Oslo Barnemuseum*
 feature_image: "https://raw.githubusercontent.com/lassegs/obmimg/master/kart.jpg"
 excerpt: "Velkommen til stedet til støtte for opprettelsen av Oslo Barnemuseum!"
 aside: true
