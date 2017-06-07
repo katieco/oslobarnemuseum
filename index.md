@@ -13,7 +13,8 @@ Noen festivaler hvor du kan treffe oss i 2017 er:
  * Søndag, 2. juli fra kl. 12-17, [feiringen av den amerikanske nasjonaldagen](http://www.accn.no/) i Frognerparken i samarbeid med ACCN.
  * Lørdag, 26. august fra kl. 11-16, [Kulturisten Junior](http://www.kulturisten.no/kulturisten-junior/) på Nesodden.
 
-
+ <span>the</span>
+ <span>deepend</span>
 
 ## CityKids
 **Oppdag, utforsk, skap, lek!** CityKids er en levende arena for oppdagelse og mestring. Her kan barna selv ta ledelsen i å oppdage, skape og prøve noe nytt. Barn utforsker og utfolder seg i flersensoriske aktiviteter som stimulerer nysgjerrighet, kreativitet og selvtillit og gir et godt grunnlag for læring og nytenkning.

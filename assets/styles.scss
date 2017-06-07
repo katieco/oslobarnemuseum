@@ -78,6 +78,19 @@ body {
 .nav {
   a {
     padding: .6rem;
+    -webkit-transition: font-size 0.5s ease-out;
+     -moz-transition: font-size 0.5s ease-out;
+     -o-transition: font-size 0.5s ease-out;
+     transition: font-size 0.5s ease-out;
+     color: #f35626;
+   background-image: -webkit-linear-gradient(92deg,#f35626,#feab3a);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   -webkit-animation: hue 2s infinite linear;
+        &:hover {
+          font-size: 1.6em;
+          cursor: pointer;
+        }
   }
   &--social a {
     display: inline-block;
@@ -430,4 +443,14 @@ pre code {
       margin: 0;
     }
   }
+}
+
+@-webkit-keyframes hue {
+    from {
+      -webkit-filter: hue-rotate(0deg);
+    }
+
+    to {
+      -webkit-filter: hue-rotate(360deg);
+    }
 }
