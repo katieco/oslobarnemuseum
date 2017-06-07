@@ -59,10 +59,9 @@ collections:
   posts:
     title: Innlegg # Needed for Siteleaf
     output: true
-    description: "Opplevelser, glimtskudd og leking." # The post list page content
+    description: "" # The post list page content
     feature_text: |
-      ## Barnemuseets blog
-    feature_image: "https://unsplash.it/800/200/"
+    feature_image: "https://raw.githubusercontent.com/lassegs/obmimg/master/IMG_33051.jpg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -109,7 +108,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Facebook: https://www.facebook.com/oslobarnemuseum
 #  Google+: https://plus.google.com/
   GitHub: https://github.com/katieco/oslobarnemuseum
-  Email: info@oslobarnemuseum.org
+#  Email: info@oslobarnemuseum.org
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
