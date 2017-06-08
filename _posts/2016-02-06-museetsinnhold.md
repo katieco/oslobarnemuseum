@@ -2,7 +2,7 @@
 title: Museets innhold
 categories: museet innhold
 feature_image: "https://lassegs.github.io/obmimg/bluechairs.jpg"
-date: 2016-03-14
+date: 2016-02-06
 layout: post
 aside: true
 ---
