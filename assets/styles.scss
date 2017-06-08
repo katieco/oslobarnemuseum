@@ -78,19 +78,17 @@ body {
 .nav {
   a {
     padding: .6rem;
-    -webkit-transition: font-size 0.5s ease-out;
-     -moz-transition: font-size 0.5s ease-out;
-     -o-transition: font-size 0.5s ease-out;
-     transition: font-size 0.5s ease-out;
-     color: #f35626;
-   background-image: -webkit-linear-gradient(92deg,#f35626,#feab3a);
+   background-color:  $linkColour;
    -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
-   -webkit-animation: hue 2s infinite linear;
-        &:hover {
-          font-size: 1.6em;
-          cursor: pointer;
-        }
+   -webkit-animation: hue 1.5s 1 linear;
+   transition: all 0.3s ease;
+   display: block;
+   &:hover {
+     -webkit-transform: scale(1.2, 1.2);
+     -ms-transform: scale(1.2, 1.2);
+     transform: scale(1.2, 1.2);
+   }
   }
   &--social a {
     display: inline-block;
