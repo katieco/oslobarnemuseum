@@ -1,7 +1,7 @@
 ---
 title: Aktiviteter
 date: 2017-06-12 09:37:00 +02:00
-featured_image: " https://lassegs.github.io/obmimg/bluechairs.jpg "
+feature_image: " https://lassegs.github.io/obmimg/bluechairs.jpg "
 ---
 
 Her presenteres aktiviteter
