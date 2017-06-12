@@ -5,9 +5,8 @@ collections:
   posts:
     title: Innlegg
     output: true
-    description: ''
-    feature_text: ''
     feature_image: https://raw.githubusercontent.com/lassegs/obmimg/master/IMG_33051.jpg
+    aside: true
   uploads:
     title: Uploads
     output: true
