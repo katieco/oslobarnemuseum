@@ -73,10 +73,9 @@ avatarurl: "/assets/favicon.png"
 navigation_header:
   Tilbud: "/"
   Om: "/om/"
-  Nyheter: "/blog/"
-  Kategorier: "/kategorier/"
-  Søk: "/sok/"
   Aktiviteter: "/aktiviteter/"
+  Nyheter: "/blog/"
+  Kontakt: "/kontakt/"
 navigation_footer:
   Samskapt: https://github.com/katieco/oslobarnemuseum
 social_links:
