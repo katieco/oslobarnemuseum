@@ -1,6 +1,5 @@
 ---
 title: Kontakt
-feature_text: "# Kontakt oss\n"
 feature_image: 'https://lassegs.github.io/obmimg/P5271027b.jpg '
 excerpt: Velkommen til stedet til støtte for opprettelsen av Oslo Barnemuseum!
 ---
