@@ -1,0 +1,9 @@
+---
+title: Aktiviteter
+date: 2017-06-12 09:37:00 +02:00
+featured_image: " https://lassegs.github.io/obmimg/bluechairs.jpg "
+---
+
+Her presenteres aktiviteter
+
+![Lekesal](https://lassegs.github.io/obmimg/IMG_3333.jpg)
