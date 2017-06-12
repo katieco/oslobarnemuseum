@@ -1,10 +1,9 @@
 ---
 title: Mål
-feature_text: |
-feature_image: "https://raw.githubusercontent.com/lassegs/obmimg/master/IMG_3599b.jpg"
-excerpt: "A demo of Markdown and HTML includes"
+feature_text: ''
+feature_image: https://raw.githubusercontent.com/lassegs/obmimg/master/IMG_3599b.jpg
+excerpt: A demo of Markdown and HTML includes
 ---
-
 
 Målet med å opprette Oslo Barnemuseum er å gi barn deres eget inspirerende miljø som vil hjelpe dem å utvikle sin kreative tenkning, selvtillit og kjennskap til verden.
 

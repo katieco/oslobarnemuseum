@@ -1,13 +1,13 @@
 ---
 title: Museets innhold
-categories: museet innhold
-feature_image: "https://lassegs.github.io/obmimg/bluechairs.jpg"
-date: 2016-02-06
+date: 2016-02-06 00:00:00 +01:00
+categories:
+- museet
+- innhold
+feature_image: https://lassegs.github.io/obmimg/bluechairs.jpg
 layout: post
 aside: true
 ---
-
-
 
 Hva ville du og ditt/dine barn like mest å se og utforske i et fremtidig Oslo Barnemuseum? En eventyrverden, et slott, et fly, en veterinærklinikk, store bobler, maleverksted, vann, verdensrommet, andre land og kulturer, m.m.?
 

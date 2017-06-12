@@ -1,9 +1,8 @@
 ---
 title: Kontakt
-feature_text: |
-  # Kontakt oss
-feature_image: "https://unsplash.it/800/200/"
-excerpt: "Velkommen til stedet til støtte for opprettelsen av Oslo Barnemuseum!"
+feature_text: "# Kontakt oss\n"
+feature_image: https://unsplash.it/800/200/
+excerpt: Velkommen til stedet til støtte for opprettelsen av Oslo Barnemuseum!
 ---
 
 Kom gjerne på besøk, men ta kontakt først så du vet vi ikke er ute og leker.

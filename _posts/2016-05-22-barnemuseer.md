@@ -1,8 +1,9 @@
 ---
 title: Barnemuseer
-categories: barnemuseer
-feature_image: "https://lassegs.github.io/obmimg/childrensmuseum.jpg"
-date: 2016-05-22
+date: 2016-05-22 00:00:00 +02:00
+categories:
+- barnemuseer
+feature_image: https://lassegs.github.io/obmimg/childrensmuseum.jpg
 layout: post
 aside: true
 ---

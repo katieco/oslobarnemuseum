@@ -1,7 +1,10 @@
 ---
 title: Områdeløft Tøyen
-categories: Tøyen områdeløft
-feature_image: "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/18527783_1655613654467344_6320335475579797071_n.jpg?oh=dc2e1a6335c308f17ebd596439b4f9e3&oe=59A9F660"
+date: 2017-06-01 00:00:00 +02:00
+categories:
+- Tøyen
+- områdeløft
+feature_image: https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/18527783_1655613654467344_6320335475579797071_n.jpg?oh=dc2e1a6335c308f17ebd596439b4f9e3&oe=59A9F660
 aside: true
 layout: post
 ---
