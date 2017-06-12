@@ -71,9 +71,9 @@ repo: https://github.com/katieco/oslobarnemuseum
 email: info@oslobarnemuseum.org
 avatarurl: "/assets/favicon.png"
 navigation_header:
-  Hjem: "/"
-  Om oss: "/om/"
-  Blog: "/blog/"
+  Tilbud: "/"
+  Om: "/om/"
+  Nyheter: "/blog/"
   Kategorier: "/kategorier/"
   Søk: "/sok/"
 navigation_footer:
