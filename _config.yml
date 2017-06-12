@@ -76,6 +76,7 @@ navigation_header:
   Nyheter: "/blog/"
   Kategorier: "/kategorier/"
   Søk: "/sok/"
+  Aktiviteter: "/aktiviteter/"
 navigation_footer:
   Samskapt: https://github.com/katieco/oslobarnemuseum
 social_links:
