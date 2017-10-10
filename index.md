@@ -2,7 +2,7 @@
 title: Velkommen til Oslo Barnemuseum - oppdag, utforsk, skap, lek!
 feature_text: 
 feature_image: 'https://lassegs.github.io/obmimg/IMG_3599b.jpg '
-excerpt: Velkommen til stedet til støtte for opprettelsen av Oslo Barnemuseum!
+excerpt: Støtt barnas museum som permanent utstilling i Oslo.
 aside: true
 ---
 
