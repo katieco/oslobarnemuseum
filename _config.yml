@@ -65,7 +65,7 @@ logo: "/assets/obm_logo1.png"
 description: Er det ikke på tide at vi kan få et interaktivt barnemuseum i Oslo til
   nytte og glede for barn, familier, lærere, turister og andre?
 url: https://katieco.github.io/oslobarnemuseum
-baseurl: "/oslobarnemuseum"
+baseurl: "/"
 repo: https://github.com/katieco/oslobarnemuseum
 email: info@oslobarnemuseum.org
 avatarurl: "/assets/favicon.png"
